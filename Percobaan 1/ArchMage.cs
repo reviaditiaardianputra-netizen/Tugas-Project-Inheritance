@@ -14,7 +14,7 @@ namespace GameInheritanceDemo
             Console.WriteLine("===> Konstruktor berparameter archmage <===");
             this.AncientKnowledge = ancientKnowledge;
         }
-        public new void DisplayData()
+        public void DisplayData()
         {
             base.DisplayData();
             Console.WriteLine("Ancient Knowledge:     =" + AncientKnowledge);
