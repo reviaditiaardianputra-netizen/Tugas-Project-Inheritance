@@ -1,0 +1,28 @@
+C:\Revi Adit\TugasOfk\TugasOfk\bin\Debug\net10.0\TugasOfk.exe
+C:\Revi Adit\TugasOfk\TugasOfk\bin\Debug\net10.0\TugasOfk.deps.json
+C:\Revi Adit\TugasOfk\TugasOfk\bin\Debug\net10.0\TugasOfk.runtimeconfig.json
+C:\Revi Adit\TugasOfk\TugasOfk\bin\Debug\net10.0\TugasOfk.dll
+C:\Revi Adit\TugasOfk\TugasOfk\bin\Debug\net10.0\TugasOfk.pdb
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.AssemblyInfoInputs.cache
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.AssemblyInfo.cs
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.csproj.CoreCompileInputs.cache
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.dll
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\refint\TugasOfk.dll
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.pdb
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\TugasOfk.genruntimeconfig.cache
+C:\Revi Adit\TugasOfk\TugasOfk\obj\Debug\net10.0\ref\TugasOfk.dll
+C:\Revi Adit\Percobaan 2\bin\Debug\net10.0\TugasOfk.exe
+C:\Revi Adit\Percobaan 2\bin\Debug\net10.0\TugasOfk.deps.json
+C:\Revi Adit\Percobaan 2\bin\Debug\net10.0\TugasOfk.runtimeconfig.json
+C:\Revi Adit\Percobaan 2\bin\Debug\net10.0\TugasOfk.dll
+C:\Revi Adit\Percobaan 2\bin\Debug\net10.0\TugasOfk.pdb
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.AssemblyInfoInputs.cache
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.AssemblyInfo.cs
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.csproj.CoreCompileInputs.cache
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.dll
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\refint\TugasOfk.dll
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.pdb
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\TugasOfk.genruntimeconfig.cache
+C:\Revi Adit\Percobaan 2\obj\Debug\net10.0\ref\TugasOfk.dll

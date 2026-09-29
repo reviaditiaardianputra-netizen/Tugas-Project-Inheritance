@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TugasOfk/1.0.0": {
+        "runtime": {
+          "TugasOfk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasOfk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
